@@ -24,11 +24,11 @@ Para executar este notebook e replicar a análise, siga os passos abaixo:
     ```
 
 4.  **Baixe os dados:**
-    Certifique-se de que o arquivo `TelecomX_Data.json` esteja na mesma pasta do notebook `TelecomX_BR_FINAL_CORRIGIDO.ipynb`.
+    Certifique-se de que o arquivo `TelecomX_Data.json` esteja na mesma pasta do notebook `TelecomX_BR.ipynb`.
 
 5.  **Abra o notebook Jupyter:**
     ```bash
-    jupyter notebook TelecomX_BR_FINAL_CORRIGIDO.ipynb
+    jupyter notebook TelecomX_BR.ipynb
     ```
     Se você não tiver o Jupyter instalado, pode instalá-lo com `pip install notebook`.
 
