@@ -8,8 +8,8 @@ Para executar este notebook e replicar a análise, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DO_SEU_REPOSITORIO>
+    git clone https://github.com/DennerCaleare/Desafio-1
+    cd Desafio-1
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
